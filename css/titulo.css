@@ -1,0 +1,95 @@
+.cor-barra{
+	color:white;
+	background-color:#a80000;
+	border-color: #700606;
+	border-top-style: none;
+	border-right-style: none;
+	border-left-style: none;
+	border-bottom-style: solid;
+	border-bottom-color: #f4d800;
+	border-width: 5px;
+	border-radius: 0px;
+}
+
+.cor-botao{
+	color:white;
+	background-color:#a80000;
+	border-color: #700606;
+	border-style: none;
+	text-decoration: none;
+
+}
+.cor-botao:hover{
+	color:white;
+	background-color: #700606;
+	border-color: #a80000;
+	border-style: none;
+	text-decoration: none;
+
+}
+.cor-botao:active{
+	color:white;
+	background-color:#a80000;
+	border-color: #700606;
+	border-style: none;
+	text-decoration: none;
+
+
+}
+.cor-botao:focus{
+	color:white;
+	background-color:#a80000;
+	border-color: #700606;
+	border-style: none;
+	text-decoration: none;
+}
+
+.cor-botao:link{
+	text-decoration: none;
+
+}
+
+
+.texto-pedido{
+	color:#f4d800;
+	font-weight: bold;
+	font-size: 25px;
+}
+
+.subtexto-pedido{
+	color:#a80000;
+	font-weight: bold;
+	font-size: 15px;
+}
+
+.texto-selecao{
+	color:#a80000;
+	font-weight: bold;
+	font-size: 13px;
+}
+
+.texto-pedidos-realizados{
+	color:#a80000;
+	font-weight: bold;
+	font-size: 35px;
+}
+
+.subtexto-pedido-restante{
+	color:#f4d800;
+	font-weight: bold;
+	font-size: 15px;
+}
+
+
+.botao-vermelho{
+	background-color: #a80000;
+	border-color: #a80000;
+}
+
+.botao-amarelo{
+	background-color: #f4d800;
+	border-color:#f4d800;
+}
+
+
+

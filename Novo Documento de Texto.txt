@@ -1,0 +1,17 @@
+INSERT INTO `tbproduto` (`id_produto`, `des_produto`) VALUES 
+(1, 'P&atilde;o Forma'),
+(2, 'P&atilde;o Forma Integ'),
+(3, 'P&atilde;o Forma S/ Casca'),
+(4, 'P&atilde;o Forma Integ S/ Casca'),
+(11, 'Presunto'),
+(12, 'Mortadela'),
+(13, 'S/ Recheio'),
+(21, 'C/ Queijo'),
+(22, 'S/ Queijo'),
+(31, 'Ketchup'),
+(32, 'Mostarda'),
+(33, 'Maionese'),
+(34, 'S/ Molho'),
+(41, 'Cenoura'),
+(42, 'Alface Americana'),
+(43, 'S/ Salada')
